@@ -1,7 +1,7 @@
 # Employee-Attrition-Analysis
 HR Analytics Case Study - Logistic Regression Model
 
-# About the DataSet
+# About the Dataset
 
 Problem Statement:
 A large company named XYZ employs approximately 4,000 people at any given time.
